@@ -53,4 +53,6 @@ Implement an Elevator:
     Capacity limits
     GUI visualization
     Priority passengers
-    Handling new people midway through simulation
+    Handling new people midway through simulation (concurrency)
+    Elevator Speed
+    Custom starting/destination floor per person
